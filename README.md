@@ -1,3 +1,4 @@
+#fuzzy-eureka
 Project Title:
  AI-Driven Database Optimization
 Description:
@@ -10,6 +11,7 @@ TensorFlow
 scikit-learn
 pandas
 NumPy
+
 Database Requirements:
 
 A supported database management system, such as MySQL or PostgreSQL
